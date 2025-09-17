@@ -1,0 +1,61 @@
+ body{
+
+        justify-content: center;
+            background-color: #91c1d8;
+            text-align: center;
+            align-items: center;
+            
+            
+        }
+        nav{
+            align-items: center;
+            background-color:#f2f2f2 ;
+            border-radius: 50px;
+            display: flex;
+            gap: 40px;
+            justify-content: end;
+        }
+        nav a{
+            text-decoration: none;
+            padding: 25px;
+        }
+        nav a:hover{
+            color: rgba(230, 0, 255, 0.473);
+        }
+        button{
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            border-radius: 40px;
+        }
+       
+.card-destaque {
+  background-color: #fff; /* fundo do bloco */
+  border-radius: 15px;
+  padding: 20px;
+  max-width: 400px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.3); /* sombra para destaque */
+  text-align: center;
+  margin: auto;
+}
+
+.card-destaque img {
+    width: 100%;  
+    height: auto;
+    display: block;
+}
+
+.texto-destaque h2 {
+  color: #000;
+  margin: 10px 0;
+}
+
+.texto-destaque p {
+  margin: 5px 0;
+  color: #333;
+}
+
+.texto-destaque strong {
+  color: #00c896; /* destaque do cupom */
+}
+      

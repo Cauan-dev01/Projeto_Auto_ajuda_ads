@@ -1,0 +1,19 @@
+   nav{
+            align-items: center;
+            background-color:#f2f2f2 ;
+            border-radius: 50px;
+            display: flex;
+            gap: 40px;
+            justify-content: end;
+        }
+        nav a{
+            text-decoration: none;
+            padding: 25px;
+        }
+        nav a:hover{
+            color: rgba(230, 0, 255, 0.473);
+        }
+         img{
+            display: block;
+            margin: 0 auto;
+        }

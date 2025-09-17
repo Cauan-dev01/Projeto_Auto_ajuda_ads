@@ -1,0 +1,27 @@
+        body{
+            background-color: #91c1d8;
+            text-align: center;
+        }
+        A:hover{
+            color: rgba(149, 64, 229, 0.534);
+        }
+        body{
+         background-color: #91c1d8;
+            text-align: center;
+            
+        }
+        nav{
+            align-items: center;
+            background-color:#f2f2f2 ;
+            border-radius: 50px;
+            display: flex;
+            gap: 40px;
+            justify-content: end;
+        }
+        nav a{
+            text-decoration: none;
+            padding: 25px;
+        }
+        nav a:hover{
+            color: rgba(230, 0, 255, 0.473);
+        }
